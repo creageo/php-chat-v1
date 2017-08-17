@@ -1,0 +1,38 @@
+body{
+	background-color: lightblue;
+}
+
+label
+{
+	display: block;
+}
+
+.minichat{
+	width: 600px;
+	margin: 0 auto;
+	background-color: white;
+	overflow: hidden;
+}
+
+.haut{
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.bas{
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: blue;
+}
+
+h1{
+	color: blue;
+	width: 600px;
+	margin: 0 auto;
+}
+
+p{
+	margin: 0;
+}
