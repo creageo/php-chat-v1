@@ -7,6 +7,16 @@ label
 	display: block;
 }
 
+h1{
+	color: blue;
+	width: 600px;
+	margin: 0 auto;
+}
+
+p{
+	margin: 0;
+}
+
 .minichat{
 	width: 600px;
 	margin: 0 auto;
@@ -25,14 +35,4 @@ label
 	margin: 0 auto;
 	padding: 10px;
 	background-color: blue;
-}
-
-h1{
-	color: blue;
-	width: 600px;
-	margin: 0 auto;
-}
-
-p{
-	margin: 0;
 }
