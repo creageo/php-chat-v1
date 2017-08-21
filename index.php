@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<META HTTP-EQUIV="Refresh" CONTENT="30; URL=index.php">
+	<META HTTP-EQUIV="Refresh" CONTENT="10; URL=index.php">
 	<link rel="stylesheet" type="text/css" href="minichat.css"> 
 	<meta charset="utf-8" />
 	<title>MiniChat</title>
